@@ -1,5 +1,5 @@
 # waterLevelSensor
-an Arduino project for an ESP8266 with readingXKC-Y25-V water level sensor that sends notification to a telegram bot
+An Arduino project for an ESP8266 with a water level sensor that sends notification to a telegram bot
 
 
   As the summer heat approaches, many of us face the tedious task of emptying the condensation reservoir of our AC units. It's a common scenario: you forget to empty it, and when you finally remember, it's too late — water has already spilled onto the floor. To address this issue, I found a solution: installing a water level detector on the reservoir.
@@ -33,6 +33,8 @@ With the hardware in place, the next step is to program the controller to monito
 
 Source code for the project you can find following this link: 
 [https://github.com/adelina344/waterLevelSensor/blob/main/waterLevelSensor.ino]
+
 Once everything is set up and programmed, you can sit back and relax knowing that your AC's condensation reservoir is being monitored. If the water level reaches a certain point, you'll receive a notification, allowing you to empty the reservoir before any spillage occurs. Here'san example of the messages that the Board sends:
 ![Screenshot 2024-06-10 175532](https://github.com/adelina344/waterLevelSensor/assets/38438913/a88ad13c-19fe-47b7-a6a0-8f55a0ab1716)
+
 In conclusion, by installing a water level detector on your AC unit's condensation reservoir, you can effectively prevent water overflow and the associated mess and damage. With the right materials and a bit of programming, you can enjoy a cooler and more worry-free summer.
